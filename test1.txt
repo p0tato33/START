@@ -1,2 +1,4 @@
+
 книга по git:
-https://git-scm.com/book/ru/v2/v2123
+https://git-scm.com/book/ru/v2
+
